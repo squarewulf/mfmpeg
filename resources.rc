@@ -1,5 +1,0 @@
-#include "resource.h"
-#include <windows.h>
-
-IDI_APPICON ICON "icon.ico"
-1 RT_MANIFEST "app.manifest"
